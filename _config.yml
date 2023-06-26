@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 title: Beep Boop
-description: If you wanted Rory you can to the right place. Unfortunately this site is still under contruction!
+description: If you wanted Rory, you can too the right place. Unfortunately, this site is still under construction!
+#google_analytics: [Your Google Analytics tracking ID]
