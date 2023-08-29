@@ -3,7 +3,6 @@ layout: project
 title: 'SockSESS'
 caption: Smart Sensing Socks For Monitoring Diabetic Feet And Preventing Ulceration.
 description: >
-  
 date: '15-08-2023'
 image: 
   path: /assets/img/projects/socksess/socksess.jpg
