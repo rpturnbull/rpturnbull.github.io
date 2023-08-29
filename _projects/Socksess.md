@@ -6,11 +6,11 @@ description: >
   
 date: '15-08-2023'
 image: 
-  path: /assets/img/projects/socksess/socksess.png
+  path: /assets/img/projects/socksess/socksess.jpg
   srcset: 
-    1920w: /assets/img/projects/socksess.png
-    960w:  /assets/img/projects/socksess@0,5x.png
-    480w:  /assets/img/projects/socksess@0,25x.png
+    1920w: /assets/img/projects/socksess.jpg
+    960w:  /assets/img/projects/socksess@0,5x.jpg
+    480w:  /assets/img/projects/socksess@0,25x.jpg
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
