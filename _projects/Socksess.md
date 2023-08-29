@@ -5,11 +5,11 @@ caption: Smart sensing socks for monitoring diabetic feet and preventing ulcerat
 description: >
 date: '15-08-2023'
 image: 
-  path: /assets/img/projects/socksess/socksess.png
+  path: /assets/img/projects/socksess/UlcersFormation1920w.png
   srcset: 
-    1920w: /assets/img/projects/socksess/socksess_1920w.jpg
-    960w:  /assets/img/projects/socksess/socksess_960w.jpg
-    480w:  /assets/img/projects/socksess/socksess_480w.jpg
+    1920w: /assets/img/projects/socksess/UlcersFormation1920w.jpg
+    960w:  /assets/img/projects/socksess/UlcersFormation960w.jpg
+    480w:  /assets/img/projects/socksess/UlcersFormation480w.jpg
 #links:
 #  - title: Link
 #    url: https://hydejack.com/
