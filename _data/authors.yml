@@ -25,6 +25,9 @@ author1:
     twitter:         <@rpturnbull>
     github:          <rpturnbull>
     email:           <turnbullrp@gmail>
+    linkedin:        < https://www.linkedin.com/in/rpturnbull/>
+    orcid:           < 0000-0001-7334-0880>
+    uol:             < https://eps.leeds.ac.uk/mechanical-engineering/staff/10308/rory-turnbull>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -53,7 +56,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        < https://www.linkedin.com/in/rpturnbull/>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
@@ -61,8 +63,7 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
-    orcid:           <0000-0001-7334-0880>
-    UoL:    <https://eps.leeds.ac.uk/mechanical-engineering/staff/10308/rory-turnbull>
+    
 
 # Another author (optional)
 #author2:
