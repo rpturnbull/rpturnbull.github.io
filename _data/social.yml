@@ -206,3 +206,10 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+orcid:
+    name: ORCID
+    icon: icon-orcid
+    prepend: "https://orcid.org/"
+UoL:
+    name: University sites
+    icon: icon-uolparkinson

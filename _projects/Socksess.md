@@ -22,6 +22,6 @@ SOCKSESS is an [EPSRC funded](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?Gran
 **NOTE**: Not to be confused with the [Instagram account](https://www.instagram.com/socksess/?hl=en) which highlights a selection of nice socks.
 {:.message}
 
-Diabetic patients can be at higher risk of developing pressure ulcers due to neuropathy (nerve damage). Pressure ulcers can lead to long period in hospital and in worst case situations infection and amputation of the foot. While smart insoles currently exist, SockSESS has set out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment. I am working on the development of sensing technologies and their integration within the socks. 
+Diabetic patients can be at higher risk of developing pressure ulcers due to neuropathy (nerve damage). Pressure ulcers can lead to long period in hospital and in worst case situations infection and amputation of the foot. While smart insoles currently exist, SockSESS has set out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment.
 
-As the related work is deceminated publically I will share more detailed information here. 
+I am working on the development of sensing technologies and their integration within the socks. As the related work is deceminated publically I will share more detailed information here. 
