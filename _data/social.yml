@@ -210,6 +210,6 @@ orcid:
     name: ORCID
     icon: icon-orcid
     prepend: "https://orcid.org/"
-UoL:
-    name: University sites
+leeds:
+    name: University of Leeds
     icon: icon-uolparkinson
