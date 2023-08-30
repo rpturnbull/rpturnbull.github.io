@@ -1,9 +1,8 @@
 ---
 layout: project
-title: Thesis Template
+title: 'Thesis Template'
 caption: University of Leeds Thesis Template.
 description: University of Leeds Thesis Template meeting the requirements of the Faculty of Engineering and Physical Science.
-  
 date: '28-08-2023'
 image: 
   path: /assets/img/projects/thesis-template/thesistemplate.png
