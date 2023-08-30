@@ -65,8 +65,8 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             Powered by Hydejack v9.1.6
-    url:               https://hydejack.com/
+  #- title:             Powered by Hydejack v9.1.6
+  #  url:               https://hydejack.com/
   #- title:             NOTICE
   #  url:               /NOTICE/
   #- title:             CHANGELOG
