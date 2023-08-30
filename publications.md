@@ -13,12 +13,24 @@ featured: 	false
 
 Peer-reviewed contributions to the academic literature.
 
- ## Conferences
+ <h2> Conferences </h2>
  
-  	<h2>Heading level 2</h2>
+ * ICORR 2023
+ 
+ <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul> 
 
-ICORR 2023
-
- ## Journal Articles
+ <h2> Journal Articles </h2>
 
 Journal of Wound Care
+
+ <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul> 
