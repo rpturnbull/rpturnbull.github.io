@@ -62,8 +62,8 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             NOTICE
-    url:               /NOTICE/
+  - title:             Legal
+    url:               /LEGAL/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
@@ -160,6 +160,11 @@ defaults:
         type:          WebPage
   - scope:
       type:            research_culture
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            outreach
     values:
       seo:
         type:          WebPage
