@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: post
 title: Publications
 sitemap: true
 
