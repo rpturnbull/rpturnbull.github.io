@@ -12,9 +12,9 @@ featured: 	false
 
 ## Peer-reviewed Conference Papers
 
-* ICORR 2023
+#* ICORR 2023
 
 ## Journal Articles
 
-* Journal of Wound Care
+#* Journal of Wound Care
 ---
