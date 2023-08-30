@@ -11,25 +11,26 @@ featured: 	false
 # Optional. When true, project thumbnails will span the full width, instead of only half. This setting takes precedence over the featured value of individual projects, i.e. it will apply to the entire page.
 ---
 
-Peer-reviewed contributions to the academic literature.
-
- <h2> Conferences </h2>
- 
-
- <ul>
-  <li>Turnbull R. P., Evans E., Dehghani-Sanij A. A., Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface, presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, 2023, p. 6. [Accepted]. </li>
-  #<li>Second item</li>
-  #li>Third item</li>
-  #<li>Fourth item</li>
-</ul> 
 
  <h2> Journal Articles </h2>
 
-
-
  <ul>
   <li>Turnbull R. P, Jones D., Alazmani A., Culmer P. In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. Journal of Wound Care (2023) [Accepted]</li>
-  #<li>Second item</li>
-  #<li>Third item</li>
-  #<li>Fourth item</li>
+
+</ul> 
+
+
+ <h2> Conference Articles </h2>
+ 
+
+ <ul>
+  <li> Turnbull R. P., Evans E., Dehghani-Sanij A. A., Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface, presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, 2023, p. 6. [Accepted]. </li>
+
+</ul> 
+
+
+ <h2> Other Contributions</h2>
+ 
+<ul>
+  <li>Turnbull R. P. Thesis: Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons 2022 </li>
 </ul> 
