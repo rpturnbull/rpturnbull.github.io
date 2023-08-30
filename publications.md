@@ -11,10 +11,10 @@ featured: 	false
 # Optional. When true, project thumbnails will span the full width, instead of only half. This setting takes precedence over the featured value of individual projects, i.e. it will apply to the entire page.
 ---
 
-## Peer-reviewed Conferences
+ ## Peer-reviewed Conferences
 
 ICORR 2023
 
-## Journal Articles
+ ## Journal Articles
 
 Journal of Wound Care
