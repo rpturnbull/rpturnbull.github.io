@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Research Culture
-show_collection: research_culture
+show_collection: research-culture
 # The name of the collection you want display on this page. Defaults to projects. See Organizing Projects for detail on how to handle multiple project collections.
 description: >
   Work undertaken championing research culture development and engagement

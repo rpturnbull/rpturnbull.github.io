@@ -168,6 +168,12 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope:
+      type:            publications
+    values:
+      seo:
+        type:          WebPage
+
 
 kramdown:
   math_engine:         mathjax
