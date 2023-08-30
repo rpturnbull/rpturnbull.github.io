@@ -10,9 +10,7 @@ image:
     1920w: /assets/img/projects/socksess/UlcersFormation1920w.jpg
     960w:  /assets/img/projects/socksess/UlcersFormation960w.jpg
     480w:  /assets/img/projects/socksess/UlcersFormation480w.jpg
-#links:
-#  - title: Link
-#    url: https://hydejack.com/
+
 sitemap: false
 ---
 
