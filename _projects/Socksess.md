@@ -21,6 +21,10 @@ SOCKSESS is an [EPSRC funded](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?Gran
 **NOTE**: Not to be confused with the [Instagram account](https://www.instagram.com/socksess/?hl=en) which highlights a selection of nice socks.
 {:.message}
 
-Diabetic patients can be at higher risk of developing pressure ulcers due to neuropathy (nerve damage). Pressure ulcers can lead to long period in hospital and in worst case situations infection and amputation of the foot. While smart insoles currently exist, SockSESS has set out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment.
+## But how do diabetic foot ulcers form?
 
-I am working on the development of sensing technologies and their integration within the socks. As the related work is deceminated publically I will share more detailed information here. 
+Diabetic patients can be at higher risk of developing pressure ulcers due to nerve damage (neuropathy) that is instigated by prolonged periods of elevated blood sugar. The nerve damage means that the affected diabetic individuals are unable to percieve pain in those areas. In someone without neuropathy when pressure is applied too their skin, in this case the foot, for a proglonged period of time it causes discomfort. For example think about standing on the spot for a prolonged period or sitting in an uncomfortalbe seat for a prolonged period. You adjust how you are sitting to reduce the discomfort. The discomort you experiance is due to a reduction in blood flow and therefore oxygen to the region. In individuals experiancing neuropathy they are unable to feel that discomfort and so their body does not signal the need to change position. Prolonged expore to this force can prevent blood flow and if it occurs for long enough the tissue can die. It is at this point that the pressure ucler occurs. Pressure ulcers can lead to long period in hospital and in worst case situations infection and amputation of the foot.
+
+## What are we trying to do?
+
+While smart insoles currently exist, SockSESS has sets out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment while enabling the device to slip seamlessily into patients every day life. I am working on the development of sensing technologies and their integration within the socks. As the related work is deceminated publically I will share more detailed information here. 
