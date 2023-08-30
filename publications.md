@@ -1,6 +1,7 @@
 ---
 layout: post
-posttitle: Publications
+title: Publications
+sitemap: true
 
 # The name of the collection you want display on this page. Defaults to projects. See Organizing Projects for detail on how to handle multiple project collections.
 description: >
@@ -12,5 +13,8 @@ featured: 	false
 
 ## Peer-reviewed Conferences
 
+ICORR 2023
 
 ## Journal Articles
+
+Journal of Wound Care
