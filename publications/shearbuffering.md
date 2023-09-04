@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 2023 Shear Buffering
 sitemap: false
 categories: [publication]
