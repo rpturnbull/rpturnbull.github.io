@@ -2,6 +2,7 @@
 layout: post
 title: 2023 Shear Buffering
 sitemap: false
+categories: [publication]
 
 ---
 

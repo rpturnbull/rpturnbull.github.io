@@ -3,7 +3,7 @@ layout: project
 title: RatL PGR Network
 caption: Robotics at Leeds PGR Network.
 description: 
-  
+tags: [culture]  
 date: '28-08-2023'
 image: 
   path: /assets/img/projects/thesistemplate.png
