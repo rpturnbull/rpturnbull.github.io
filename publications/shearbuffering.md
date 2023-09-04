@@ -10,7 +10,7 @@ tags: [interaction]
 <h2> In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. </h2>
 
 <h3> Turnbull R. P, Jones D., Alazmani A., Culmer P. </h3>
-Journal of Wound Care 
+Journal of Wound Care <br>
 October 2023<br> 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">PDF</a> <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a> <a class="btn btn-outline-primary my-1 mr-1" href="https://eps.leeds.ac.uk/mechanical-engineering-research-design-robotics-optimisation/doc/healthcare-mechatronics">Laboratory</a> <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">DOI</a>
@@ -21,7 +21,7 @@ October 2023<br>
 <blockquote>
 <b>Objective</b>
 To characterise and compare the effectiveness of sacral dressings at alleviating the transfer of shear forces to the skin and therefore to lower the risk and prevention of pressure injury (PI) development in bed bound patients. Dressings were evaluated against a ratio of applied to transferred shear and peak shear force observed at the skin.
-<br> <br> 
+<br>  
 <b>Method</b>
 The evaluation was undertaken using a custom benchtop in-vitro experimental setup replicating the skin-bedsheet interface. Forces were applied using an automated test rig within which a pair of load cells (ATI Nano-17) were embedded, tracking the applied normal and shear forces. Normal loading regimes of 11.1 N (6 kPa) and 14.8 N (8 kPa) were applied, to match clinically relevant sacral pressures expected. Pressures were applied with an error of 2.3% and 0.6%, respectively. No significant difference was found in the loading of dressings (P < 0.001).
 <br> <br> 
