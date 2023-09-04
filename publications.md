@@ -16,7 +16,7 @@ featured: 	false
  
  <h3>2023</h3>
 
-Turnbull R. P, Jones D., Alazmani A., Culmer P. [In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. Journal of Wound Care (2023](/publication/2023ShearBuffering.md) **[Accepted]**
+Turnbull R. P, Jones D., Alazmani A., Culmer P. [In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. Journal of Wound Care (2023](/publication/2023ShearBuffering.md/) **[Accepted]**
  
  <h2> Conference Articles </h2>
  
