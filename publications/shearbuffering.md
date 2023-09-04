@@ -9,23 +9,12 @@ tags: [interaction]
 
 <h2> In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. </h2>
 
-<h2> Turnbull R. P, Jones D., Alazmani A., Culmer P. October 2023</h2>
+<h3> Turnbull R. P, Jones D., Alazmani A., Culmer P. </h3>
+<h3> Journal of Wound Care </h3>
+<h3> October 2023 </h3><br> 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">PDF</a> <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a> <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Laboratory</a> <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">DOI</a>
-
-
-<table cellspacing="0" cellpadding="0">
- <table>
-  <tr>
-    <td><b>Publication</b>	</td>
-    <td><b>Journal of Wound Care</b>	</td>
-  </tr>
-  <tr>
-    <td>Date</td>
-    <td>2023</td>
-  </tr>
-</table> 
-	
+<br> 
 
 
  <h3> Abstract </h3>
