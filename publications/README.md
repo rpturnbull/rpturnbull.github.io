@@ -4,7 +4,7 @@ description: >
   Dissemination of Research
 hide_description: true
 sitemap: false
-permalink: /Publications/
+permalink: /publications/
 ---
 
 
