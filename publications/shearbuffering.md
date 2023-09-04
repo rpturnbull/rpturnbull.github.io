@@ -1,21 +1,16 @@
 ---
 layout: page
-title: 2023 Shear Buffering
+title: In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients.
+description: > Turnbull R. P, Jones D., Alazmani A., Culmer P. /n  October 2023
 sitemap: false
 categories: [publication]
 
 ---
+  
+<button name="button" onclick="http://www.google.com">DOI</button> <button name="button" onclick="http://www.google.com">PDF</button> <button name="button" onclick="http://www.google.com">Laboratory</button>
 
-
- <h2> In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. </h2>
- 
- Turnbull R. P, Jones D., Alazmani A., Culmer P. {:.message}
- October 2023 {:.message}
- 
- <button name="button" onclick="http://www.google.com">Click me</button>
- 
  <h3> Abstract </h3>
- ~~~ > 
+<blockquote>
 **Objective**
 To characterise and compare the effectiveness of sacral dressings at alleviating the transfer of shear forces to the skin and therefore to lower the risk and prevention of pressure injury (PI) development in bed bound patients. Dressings were evaluated against a ratio of applied to transferred shear and peak shear force observed at the skin.
 
@@ -28,7 +23,7 @@ The performance of five dressing designs were assessed, with six samples taken f
 
 **Conclusion**
 Although significant differences were identified between dressing type, DCoF was not indicative of dressing performance. All dressings reduced the shear observed at the skin with respect to the control. However, at higher pressures, the performance of dressings with a decoupled structure was reduced, as seen by the OfGen3 dressing exhibiting a significantly better performance at 8 kPa than its decoupled counterparts (MepB and OfGen4). Dressing compression, rather than thickness, was indicative of peak shear buffering. In conclusion, shear buffering is a complex process and performance is dependent on the compound response of the constituent dressing elements, rather than being dominated by a single component.
- {:.lead} ~~~
+</blockquote>
 
 **Publication**		Journal of Wound Care
 **Date**			2023
