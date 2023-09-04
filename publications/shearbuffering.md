@@ -8,7 +8,7 @@ categories: [publication]
 ---
   
 <button name="button" onclick="http://www.google.com">DOI</button> <button name="button" onclick="http://www.google.com">PDF</button> <button name="button" onclick="http://www.google.com">Laboratory</button>
-
+<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a>
  <h3> Abstract </h3>
 <blockquote>
 **Objective**
@@ -27,3 +27,4 @@ Although significant differences were identified between dressing type, DCoF was
 
 **Publication**		Journal of Wound Care
 **Date**			2023
+
