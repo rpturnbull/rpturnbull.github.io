@@ -306,13 +306,13 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  featured_categories:
-    permalink:         /:culture/
-    output:            true
-    permalink:         /:outreach/
-    output:            true
+  #featured_categories:
+   # permalink:         /:culture/
+   # output:            true
+ #   permalink:         /:outreach/
+ #   output:            true
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /tag-:interaction/
     output:            true
 
   projects:
