@@ -19,7 +19,6 @@ tags: [interaction, conference]
 
 The work in this paper is based on my [PhD thesis](https://rpturnbull.github.io/publications/thesis/).
 
-
  <h3> Abstract </h3>
 <blockquote>
  Monitoring the human-exoskeleton interface (HEI) is vital for user safety in assistive exoskeletons. Considering interaction forces during design can improve comfort and efficiency and reduce resistance and inertia. Challenges include covering the lower limb area without interfering with user-robot interaction. This paper presents a force-sensitive resistor (FSR) based sensing sleeve for use within the HEI. The design includes 30 sensors and works independently of it to assess attachment modalities. System characterisation tests the system with human trials. Demonstrating that a low-cost, flexible sensing array can accurately monitor HEI. This provides a promising tool for assessing human-robot interaction and investigating wearable robotic device use.

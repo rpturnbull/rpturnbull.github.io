@@ -9,8 +9,8 @@ tags: [interaction]
 
 <h2> In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients. </h2>
 
-<h3> Turnbull R. P., Jones D., Alazmani A., Culmer P. </h3>
-<h4>Journal of Wound Care - October 2023 </h4> 
+<h3>Turnbull R. P., Jones D., Alazmani A., Culmer P.</h3>
+<h4>Journal of Wound Care - [Accepted] </h4> 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">PDF</a>
 <!--<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a>-->
