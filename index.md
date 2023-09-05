@@ -14,13 +14,12 @@ Besides research I have been championing research culture and outreach work thro
 
 ## Research interests
 
-*Wearable technolgies
-
-*Physical human-robot interaction
-
-*System development
-
-*Miniaturisation
+ <ul>
+  <li>Wearable technolgies</li>
+  <li>Physical human-robot interaction</li>
+  <li>System development</li>
+  <li>Miniaturisation</li>
+</ul> 
 
 ## Teaching
 
