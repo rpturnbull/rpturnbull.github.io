@@ -159,7 +159,7 @@ defaults:
       seo:
         type:          WebPage
   - scope:
-      type:            research_culture
+      type:            culture
     values:
       seo:
         type:          WebPage
@@ -306,9 +306,9 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  #featured_categories:
-   # permalink:         /:culture/
-   # output:            true
+  featured_categories:
+    permalink:         /:research-culture/
+    output:            true
  #   permalink:         /:outreach/
  #   output:            true
   featured_tags:
