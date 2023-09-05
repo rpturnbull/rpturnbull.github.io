@@ -1,0 +1,46 @@
+---
+layout: page
+title: Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons 
+description: > Turnbull R. P. 2022
+sitemap: false
+categories: [publication]
+tags: [interaction, thesis]
+---
+
+<h2> Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons. </h2>
+
+<h3> Turnbull R. P. </h3>
+<h4> White Rose eThesis - August 2022</h4> 
+
+<!--<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">PDF</a>-->
+<!--<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a>-->
+<a class="btn btn-outline-primary my-1 mr-1" href="https://eps.leeds.ac.uk/mechanical-engineering/staff/110/professor-abbas-a-dehghani-sanij">Supervisor</a>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://etheses.whiterose.ac.uk/31307/">White Rose eThesis</a>
+
+~~~
+Note: Thesis is under embargo unitl 1st October 2027 to provide time to disseminate work.
+~~~
+
+<h3> Publications </h3>
+
+Turnbull R. P., Evans E., Dehghani-Sanij A. A., [Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface](https://rpturnbull.github.io/publications/ICORR-2023/), presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, 2023, p. 6. [Accepted].
+
+
+<hr>
+
+ <h3> Abstract </h3>
+<blockquote>
+Exoskeletons are external structures with joints and links corresponding to the human body. The exoskeleton transfers force to the human body to assist, enhance, or rehabilitate a user. Exoskeletons and the human body create a bi-directional system built up of multiple interactive layers. This research focuses on passive lower limb assistive exoskeletons. At the core of exoskeleton design is cognitive and physical interaction, forming human-robot interaction. Cognitive interaction involves control system user intent detection and how the user interprets information from the exoskeleton. Physical interaction concerns the transmission of power to the user. The physical interface is affected by several factors such as soft tissue movement, joint misalignment, and robot inertia. It is postulated that improving exoskeleton-user attachment can improve system efficiency and user comfort. A drawback of current exoskeleton design is a lack of consideration for the human aspect of human-exoskeleton interaction, through simplification to kinematic design and system contact points. Limited work exists on human-exoskeleton interaction focusing on the effect on the human, aside from metabolic output. A review of 103 exoskeleton designs highlighted the need to standardise exoskeleton attachment. In addition, a framework for exoskeleton assessment was set out.
+<br> <br>
+Two passive lower limb exoskeletons were developed for assessing human-robot interaction. The first six degrees of freedom system conformed to common mechanical joint simplifications when replicating human anatomy, resulting in a minimalist design. The second fourteen degrees of freedom sought to minimise exoskeleton joint simplification, using only those required for full user mobility. Passive systems highlight the base exoskeleton-user impedance.
+<br> <br>
+Preliminary work suggested that the kinematic constraints of the minimalist system resulted in greater interaction forces, with the higher degree of freedom system experiencing a 12% force reduction. A novel sleeve-based attachment system is proposed in conjunction with traditional cuff-based attachment systems. Multiple design elements were taken through an iterative process before reaching a final design. Proof of concept attachment sleeve testing showed a reduction of 43% compared to the traditional attachment cuff. A flexible force tracking array was developed for human-exoskeleton interface integration. An array of 30 force-sensitive resistors (FSR406) were implemented, achieving post-calibration (0 - 60N) linearity greater than R2 = 0.95 in all sensors. The soft sensing sleeve is capable of assessing multiple attachment methodologies.
+<br> <br>
+Due to the extensive testing required to assess all possible attachment scenarios, an in-silico model was developed within the OpenSim and HyFyDy environment. Implementing a linear spring-damper system to represent soft tissue interaction between human and exoskeleton through closed kinematic chains. The model provides a promising and novel method for investigating human-exoskeleton interaction and exoskeleton performance assessment. Validated against human gait trials, the model achieved a 70% response agreement with the flexible force tracking system and aligned with responses documented in the academic literature. Given soft tissue’s non-linear viscoelastic properties, 70% agreement was deemed sufficient. The biomechanically accurate model was driven by muscle excitation through a forward shooting optimisation control (SCONE), driving a novel approach to exoskeleton assessment. 
+<br> <br>
+This research found no clear link between knee alignment and joint load (R2 = 0.150). A higher density of shank attachment points is beneficial to exoskeleton stability characterised in desirable response shifts in all metrics assessed. The physical human-exoskeleton interaction presented a decrease in the normal force of 55.9% (±2.6%) and a 63.1% (±5.2%) reduction in shear. Alignment changes of 45mm to 24.5mm (46%) were observed between configurations. Gait analysis saw a similar response with a 21-31% gait deviation compared to the baseline model. Significant shifts in each metric in a passive system highlight the need for further research in this area. Thigh attachment configuration had no clear effect on performance, giving researchers more freedom in the thigh attachment. Increasing the exoskeleton joint degrees of freedom (additional pelvis-exoskeleton joint) greatly affected shank normal and shear forces, highlighting the influence of exoskeleton joint kinematics on human-robot interaction and the need for its consideration in future human-centred design.
+</blockquote>
+
+
+
+

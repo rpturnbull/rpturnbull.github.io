@@ -1,0 +1,31 @@
+---
+layout: page
+title: Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface.
+description: > Turnbull R. P., Evans E., Dehghani-Sanij A. A. [Accepted] 2023
+sitemap: false
+categories: [publication]
+tags: [interaction, conference]
+---
+
+<h2> Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface. </h2>
+
+<h3> Turnbull R. P., Evans E., Dehghani-Sanij A. A. </h3>
+<h4> presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, September 2023 </h4> 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">PDF</a>
+<!--<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a>-->
+<a class="btn btn-outline-primary my-1 mr-1" href="https://eps.leeds.ac.uk/mechanical-engineering-research-design-robotics-optimisation/doc/healthcare-mechatronics">Laboratory</a>
+<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">DOI</a>
+
+The work in this paper is based on my [PhD thesis](https://rpturnbull.github.io/publications/thesis/).
+
+
+ <h3> Abstract </h3>
+<blockquote>
+ Monitoring the human-exoskeleton interface (HEI) is vital for user safety in assistive exoskeletons. Considering interaction forces during design can improve comfort and efficiency and reduce resistance and inertia. Challenges include covering the lower limb area without interfering with user-robot interaction. This paper presents a force-sensitive resistor (FSR) based sensing sleeve for use within the HEI. The design includes 30 sensors and works independently of it to assess attachment modalities. System characterisation tests the system with human trials. Demonstrating that a low-cost, flexible sensing array can accurately monitor HEI. This provides a promising tool for assessing human-robot interaction and investigating wearable robotic device use.
+
+</blockquote>
+
+
+
+
