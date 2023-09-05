@@ -25,4 +25,4 @@ Turnbull R. P., Evans E., Dehghani-Sanij A. A., [Development and Validation of a
   
  <h3>2022</h3>
  
-Turnbull R. P. Thesis: [Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons](https://rpturnbull.github.io/publications/thesis/) 
+Turnbull R. P. [Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons](https://rpturnbull.github.io/publications/thesis/) 

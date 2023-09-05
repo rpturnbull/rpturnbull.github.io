@@ -10,7 +10,7 @@ tags: [interaction, thesis]
 <h2> Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons. </h2>
 
 <h3> Turnbull R. P. </h3>
-<h4> White Rose eThesis - August 2022</h4> 
+<h4> August 2022</h4> 
 
 <!--<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">PDF</a>-->
 <!--<a class="btn btn-outline-primary my-1 mr-1" href="/project/true-rehab/">Project</a>-->
