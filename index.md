@@ -15,7 +15,7 @@ Besides research I have been championing research culture and outreach work thro
 ## Research interests
 
  <ul>
-  <li>Wearable technolgies</li>
+  <li>Wearable technologies</li>
   <li>Physical human-robot interaction</li>
   <li>System development</li>
   <li>Miniaturisation</li>
