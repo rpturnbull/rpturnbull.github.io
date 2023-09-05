@@ -307,9 +307,10 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /:culture/
     output:            true
-
+    permalink:         /:outreach/
+    output:            true
   featured_tags:
     permalink:         /tag-:name/
     output:            true
