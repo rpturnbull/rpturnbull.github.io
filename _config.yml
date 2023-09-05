@@ -306,9 +306,9 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  featured_categories:
-    permalink:         /:research-culture/
-    output:            true
+  #featured_categories:
+   # permalink:         /:research-culture/
+    #output:            true
  #   permalink:         /:outreach/
  #   output:            true
   featured_tags:
