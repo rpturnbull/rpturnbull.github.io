@@ -2,6 +2,7 @@
 layout: welcome
 title: Welcome!
 sitemap: true
+cover: true
 ---
 
 ## Biography
