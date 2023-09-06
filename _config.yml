@@ -306,7 +306,7 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-   culture:
+   research_culture:
      permalink:        /research-culture/:path/
      output:           true
  
