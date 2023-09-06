@@ -306,11 +306,10 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  #featured_categories:
-   # permalink:         /:research-culture/
-    #output:            true
- #   permalink:         /:outreach/
- #   output:            true
+   culture:
+     permalink:        /research-culture/:path/
+     output:           true
+ 
   featured_tags:
     permalink:         /tag-:interaction/
     output:            true
