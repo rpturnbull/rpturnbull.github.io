@@ -321,6 +321,11 @@ collections:
     permalink:         /research-culture/:path/
     output:            true
     
+   outreach:
+    # Make sure the permalink path is different!
+    permalink:         /outreach/:path/
+    output:            true
+    
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
