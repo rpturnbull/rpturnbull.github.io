@@ -54,7 +54,7 @@ menu:
   - title:             Outreach
     url:               /outreach/
   - title:             Research Culture
-    url:               /culture/
+    url:               /other-projects/
   - title:             Publications
     url:               /publications/
   - title:             Résumé
@@ -309,12 +309,6 @@ collections:
   # research_culture:
    #  permalink:        /research-culture/:path/
    #  output:           true
-   #featured_categories:
-   # permalink:         /:research-culture/
-    #output:            true
- #   permalink:         /:outreach/
- #   output:            true
- 
   featured_tags:
     permalink:         /tag-:interaction/
     output:            true
@@ -323,7 +317,12 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
-
+# Our new projects collection
+  other_projects:
+    # Make sure the permalink path is different!
+    permalink:         /other-projects/:path/
+    output:            true
+    
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
