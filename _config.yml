@@ -54,7 +54,7 @@ menu:
   - title:             Outreach
     url:               /outreach/
   - title:             Research Culture
-    url:               /research-culture/
+    url:               /culture/
   - title:             Publications
     url:               /publications/
   - title:             Résumé
@@ -158,21 +158,21 @@ defaults:
     values:
       seo:
         type:          WebPage
-  # - scope:
-      # type:            culture
-    # values:
-      # seo:
-        # type:          WebPage
-  # - scope:
-      # type:            outreach
-    # values:
-      # seo:
-        # type:          WebPage
-  # - scope:
-      # type:            publications
-    # values:
-      # seo:
-        # type:          WebPage
+  - scope:
+      type:            culture
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            outreach
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            publications
+    values:
+      seo:
+        type:          WebPage
 
 
 kramdown:
@@ -306,24 +306,17 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-   projects:
-    permalink:         /projects/:path/
-    output:            true
-    
-    # # Our new projects collection
-  # other_projects:
-    # # Make sure the permalink path is different!
-    # permalink:         /other-projects/:path/
-    # output:            true
-   #research_culture:
-   #  permalink:        /research-culture/:path/
-    # output:           true
+   research_culture:
+     permalink:        /research-culture/:path/
+     output:           true
  
   featured_tags:
     permalink:         /tag-:interaction/
     output:            true
 
-  
+  projects:
+    permalink:         /projects/:path/
+    output:            true
 
 
 # File inclusion/exclusion
