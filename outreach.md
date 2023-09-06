@@ -1,5 +1,5 @@
 ---
 layout: projects
-title: Outreach*
+title: Outreach
 show_collection: outreach #!!
 ---
