@@ -4,6 +4,8 @@ title: 'Docterate Research'
 caption: Human Exoskeleton Interaction.
 description: >
 date: 24 08 2022
+categories: [project]
+tags:       [research]
 sitemap: false
 ---
 

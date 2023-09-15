@@ -4,6 +4,8 @@ title: 'Thesis Template'
 caption: University of Leeds Thesis Template.
 description: >
 date: 30 08 2022
+categories: [project]
+tags:       [template,thesis]
 image: 
   path: /assets/img/projects/thesis-template/Thesis1920w.png
   srcset: 
