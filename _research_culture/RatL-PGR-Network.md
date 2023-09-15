@@ -20,7 +20,7 @@ In 2017 when I started my PhD at the University of Leeds it became clear there w
 
 ## A Pint of Robotics
 
-![300x300](/assets/img/culture/RatL/Pint_of_Robotics.png "A Pint of Robotics")
+![300x300](/assets/img/culture/RatL/Pint_of_Robotics.png "A Pint of Robotics"){:.lead width="400" }
 
 An [ongoing](https://robotics.leeds.ac.uk/pgr-network/a-pint-of-robotics/) internal seminar series where researchers from across the Unviversity of Leeds with research interests in robotics have been invited to give talks. The aim of the event is to provide a platform for PhD students to practise presenting their work while informing others of the great research being undertaken across Leeds. Research topics have included:
  <ul>
