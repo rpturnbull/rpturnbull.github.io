@@ -8,10 +8,10 @@ tags:       [culture,robotics]
 date: 15 09 2023
 image: 
   path: /assets/img/culture/darkLogo.png
- # srcset: 
-   # 1920w: /assets/img/culture/darkLogo.png
-  #  960w:  /assets/img/culture/darkLogo.png
-  #  480w:  /assets/img/culture/darkLogo.png
+  srcset: 
+   1920w: /assets/img/culture/darkLogo.png
+   960w:  /assets/img/culture/darkLogo.png
+   480w:  /assets/img/culture/darkLogo.png
 sitemap: false
 ---
 
