@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'SockSESS'
+title: SockSESS
 caption: Smart sensing socks for monitoring diabetic feet and preventing ulceration.
 description: >
 date: 15 08 2023
@@ -24,7 +24,6 @@ SOCKSESS is an [EPSRC funded](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?Gran
 Diabetic patients can be at higher risk of developing pressure ulcers due to nerve damage (neuropathy) that is instigated by prolonged periods of elevated blood sugar. The nerve damage means that the affected diabetic individuals are unable to perceive pain in those areas. In someone without neuropathy when pressure is applied too their skin, in this case the foot, for a prolonged period of time it causes discomfort. For example think about standing on the spot for a prolonged period or sitting in an uncomfortable seat for a prolonged period. You adjust how you are sitting to reduce the discomfort. The discomfort you experience is due to a reduction in blood flow and therefore oxygen to the region. In individuals experiencing neuropathy they are unable to feel that discomfort and so their body does not signal the need to change position. Prolonged exposure to this force can prevent blood flow and if it occurs for long enough the tissue can die. It is at this point that the pressure ulcer occurs. Pressure ulcers can lead to long period in hospital and in worst case situations infection and amputation of the foot.
 
 ![960x540](/assets/img/projects/socksess/UlcersFormation960w.jpg "Pressure Ulcer Formation") 
-Process of pressure ulcer formation in diabetic feet {:.figcaption}
 
 ## What are we trying to do?
 

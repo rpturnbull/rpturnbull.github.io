@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Thesis Template'
+title: Thesis Template
 caption: University of Leeds Thesis Template.
 description: >
 date: 30 08 2022
