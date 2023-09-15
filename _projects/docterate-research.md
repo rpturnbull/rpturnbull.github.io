@@ -19,10 +19,12 @@ More information to follow as it becomes publicly available.
 
 ## Disseminated work
 
-ICORR 2022 is a University of Leeds Exoskeleton Laboratory summary slide.
+ICORR 2022 in a Exoskeleton Laboratory (University of Leeds) summary slide from Prof. Abbas Dehghani-Sanij.
 
 ICORR 2023 as a [paper](https://rpturnbull.github.io/publications/2023-09-29-ICORR/) and poster.
 
 ~~~
-Note Two journal articles are in preparation
+Note
+Two journal articles are in preparation
+A second conference paper is in preparation
 ~~~
