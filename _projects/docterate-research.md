@@ -13,7 +13,7 @@ The work used SCONE combined with the High Fidelity Dynamic (HyFyDy) physics eng
 [Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons.](https://rpturnbull.github.io/publications/2022-08-24-thesis/)
 
 ~~~
-Note: My thesis is currently under embargo until 2027 while I disseminate the work. More information to follow as it becomes publicly available.
+Note: My thesis is currently under embargo until 2027 while I disseminate the work. <br> More information to follow as it becomes publicly available.
 ~~~
 
 ## Disseminated work
