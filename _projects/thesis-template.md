@@ -3,7 +3,7 @@ layout: project
 title: 'Thesis Template'
 caption: University of Leeds Thesis Template.
 description: >
-date: 2022
+date: 30 08 2022
 categories: [project]
 tags:       [template,thesis]
 image: 
