@@ -30,7 +30,7 @@ An [ongoing](https://robotics.leeds.ac.uk/pgr-network/a-pint-of-robotics/) inter
   <li>Pipe inspection robots</li>
 </ul> 
 
-![800x400](/assets/img/culture/RatL/pofr_talk.jpg)
+![800x400](/assets/img/culture/RatL/pofr_talk.jpeg "Lending Room, The Library Pub")
 
 ## Internal Conferences
 In 2018 and 2019 we hosted internal Robotics at Leeds conferences to provide post-graduate researchers with a platform to present their work. Each day event was attended by over 80 participants. The event stopped due to the pandemic though will likely return.
