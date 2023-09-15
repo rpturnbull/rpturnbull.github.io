@@ -21,25 +21,3 @@ Besides research I have been championing research culture and outreach work thro
   <li>System development</li>
   <li>Miniaturisation</li>
 </ul> 
-
-## Teaching
-
-Foundation in teaching
-
-
-## Projects
-
-I am currently or have been involved in a range of projects:
-
-<!--projects-->
-
-
-## Outreach
-
-<!--outreach-->
-
-
-
-## Research Culture
-
-<!--culture-->
