@@ -7,11 +7,11 @@ categories: [culture]
 tags:       [culture,robotics]  
 date: 15 09 2023
 image: 
-  path: /assets/img/culture/darkLogo.png
+  path: /assets/img/culture/PGRlogo1920.png
   srcset: 
-   1920w: /assets/img/culture/darkLogo.png
-   960w:  /assets/img/culture/darkLogo.png
-   480w:  /assets/img/culture/darkLogo.png
+   1920w: /assets/img/culture/PGRlogo1920.png
+   960w:  /assets/img/culture/PGRlogo930.png
+   480w:  /assets/img/culture/PGRlogo480.png
 sitemap: false
 ---
 
