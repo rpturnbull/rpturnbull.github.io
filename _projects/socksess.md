@@ -4,7 +4,7 @@ title: SockSESS
 caption: Smart Socks.
 description: >
 Smart sensing socks for monitoring diabetic feet and preventing ulceration.
-date: 1 Aug 2023
+date: 01 08 2023
 image: 
   path: /assets/img/projects/socksess/Socksess1920w.png
   srcset: 
@@ -28,4 +28,6 @@ Diabetic patients can be at higher risk of developing pressure ulcers due to ner
 
 ## What are we trying to do?
 
-While smart insoles currently exist, SockSESS has sets out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment while enabling the device to slip seamlessly into patients every day life. I am working on the development of sensing technologies and their integration within the socks. As the related work is disseminated publicly I will share more detailed information here.
+While smart insoles currently exist, SockSESS has sets out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment while enabling the device to slip seamlessly into patients every day life. I am working on the development of sensing technologies and their integration within the socks.
+
+As the related work is disseminated publicly I will share more detailed information here.
