@@ -3,7 +3,6 @@ layout: project
 title: University Technical College
 caption: Leeds outreach at UTC.
 description: >
-date: 01 05 2023
 categories: [outreach]
 tags:       [outreach,robotics]
 image: 
