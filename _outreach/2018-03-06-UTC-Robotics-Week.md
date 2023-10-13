@@ -21,3 +21,5 @@ The network was invited to the University Technical College (UTC) to present the
 Additionally we ran a workshop based around the lego mindstorm systems. Through the workshop we hoped to encourage problem solving while introducing the students to basic electronics and coding concepts.
 
 ![400x400](/assets/img/outreach/UTC2018/mindstorm.gif "Mindstorm demonstrator from workshop.")
+
+![Setup: Left Turtlebots, Right: Baxter](../assets/img/outreach/BeCurious2019/setup960.jpeg){:.lead width="960" height="540" loading="lazy"}
