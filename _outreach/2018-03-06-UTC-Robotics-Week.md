@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: University Technical College
 caption: Leeds outreach at UTC.
 description: >

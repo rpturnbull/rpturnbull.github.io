@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: project
 title: BeCurious 2019
 caption: Outreach in parkinson.
 description: >
 categories: [outreach]
 tags:       [outreach,robotics]
-date: 30 03 2019
+date: 2019
 image: 
   path: /assets/img/outreach/BeCurious2019/people1920.jpeg
   srcset: 
