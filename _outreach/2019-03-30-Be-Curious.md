@@ -16,6 +16,8 @@ image:
 sitemap: false
 ---
 
+![Setup: Left Turtlebots, Right: Baxter](../assets/img/outreach/BeCurious2019/people960.jpeg){:.lead width="960" height="540" loading="lazy"}
+
 The [PGR network](https://rpturnbull.github.io/research-culture/RatL-PGR-Network/) team showcased the robot Baxter in a stand called "Baxter’s sweet shop" and Turtlebots, from the school of Computing.
 
 ![800x400](/assets/img/outreach/BeCurious2019/setup960.jpeg "Setup: Left Turtlebots, Right: Baxter")
