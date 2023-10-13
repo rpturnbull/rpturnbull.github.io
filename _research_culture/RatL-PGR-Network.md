@@ -3,9 +3,7 @@ layout: project
 title: R@L PGR Network Outreach
 caption: Robotics at Leeds PGR Network.
 description: Robotics at Leeds Post Gradute Researcher Network
-#categories: [culture]
-#tags:       [culture,robotics]  
-date: 15 09 2023
+date: 15 09 2017
 image: 
   path: /assets/img/culture/RatL/PGRlogo1920.png
   srcset: 

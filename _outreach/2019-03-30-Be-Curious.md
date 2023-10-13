@@ -3,9 +3,9 @@ layout: page
 title: BeCurious
 caption: Outreach in parkinson.
 description: >
-date: 30 03 2019
 categories: [outreach]
 tags:       [outreach,robotics]
+date: 30 03 2023
 image: 
   path: /assets/img/outreach/BeCurious2019/people1920.jpeg
   srcset: 
