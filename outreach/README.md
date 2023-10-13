@@ -4,7 +4,7 @@ description: >
   Dissemination of research and public engagement through outreach events.
 hide_description: true
 sitemap: false
-permalink: /publications/
+permalink: /outreach/
 ---
 
 
