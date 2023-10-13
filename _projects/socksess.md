@@ -4,7 +4,7 @@ title: SockSESS
 caption: Smart Socks.
 description: >
 Smart sensing socks for monitoring diabetic feet and preventing ulceration.
-date: '15-08-2023'
+date: 1 Aug 2023
 image: 
   path: /assets/img/projects/socksess/Socksess1920w.png
   srcset: 
