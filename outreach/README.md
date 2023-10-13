@@ -1,28 +1,29 @@
 ---
-title: Publications
+title: Outreach
 description: >
-  Dissemination of Research
+  Dissemination of research and public engagement through outreach events.
 hide_description: true
 sitemap: false
 permalink: /publications/
 ---
 
 
- <h2> Journal Articles </h2>
- 
- <h3>2023</h3>
+Dissemination of research and public engagement through outreach events.
 
-Turnbull R. P, Jones D., Alazmani A., Culmer P. [In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients.](https://rpturnbull.github.io/publications/2023-11-01-shear-buffering/) Journal of Wound Care [Accepted]
- 
- <h2> Conference Articles </h2>
- 
- <h3>2023</h3>
+<h2>2023</h2>
+<h3>Robotics at Leeds Stall at ICRA</h3>
+[Robotics at Leeds Stall](https://rpturnbull.github.io/outreach/2023-05-01-icra-2023/) at the International Conference on Robotics and Automation.
 
-Turnbull R. P., Evans E., Dehghani-Sanij A. A., [Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface](https://rpturnbull.github.io/publications/2023-09-29-ICORR/), presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, 2023, p. 6. [Accepted].
+<h2>2019-2023</h2>
+
+<h2>2019</h2>
+<h3>Be Curious</h3>
 
 
- <h2> Other Contributions</h2>
-  
- <h3>2022</h3>
- 
-Turnbull R. P. [Human-Robot Interaction in Passive Assistive Lower Limb Robotic Exoskeletons](https://rpturnbull.github.io/publications/2022-08-24-thesis/) 
+[Be Curious](https://rpturnbull.github.io/outreach/2019-03-30-Be-Curious/)
+
+
+<h2>2018</h2>
+<h3>UTC Robot Week</h3>
+
+[University Technical College](https://rpturnbull.github.io/outreach/2018-03-06-UTC-Robotics-Week/)
