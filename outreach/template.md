@@ -3,7 +3,7 @@ layout: page
 title: 
 description: > Authors and date
 sitemap: false
-categories: [publication]
+categories: [outreach]
 tags: [keyword, type]
 ---
 

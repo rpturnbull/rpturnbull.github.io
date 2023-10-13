@@ -11,20 +11,8 @@ tags: [keyword, type]
 
 In 2017 when I started my PhD at the University of Leeds it became clear there was a need for increased post graduate researcher (PGR) engagement. To instigate change, myself and like minded PGRs formed the the [*Robotics at Leeds PGR Network*](https://robotics.leeds.ac.uk/pgr-network/) as a forum to connect PGRs from across the different schools at the University of Leeds. The aim was to build an inter-school research culture through a common interest in robotics. Since then we have been involved in a range of events and outreach. My involvement with the postgradute research network is ongoing.
 
-
 ## A Pint of Robotics
-
-![200x200](/assets/img/culture/RatL/Pint_of_Robotics.png "A Pint of Robotics"){:.lead width="200" height="200" }
-
-An [ongoing](https://robotics.leeds.ac.uk/pgr-network/a-pint-of-robotics/) internal seminar series where researchers from across the Unviversity of Leeds with research interests in robotics have been invited to give talks. The aim of the event is to provide a platform for PhD students to practise presenting their work while informing others of the great research being undertaken across Leeds. Research topics have included:
- <ul>
-  <li>Magnetic manipulators for surginal robotics</li>
-  <li>Vision based object manipulation</li>
-  <li>The ethics of sex robots</li>
-  <li>Pipe inspection robots</li>
-</ul> 
-
-![800x400](/assets/img/culture/RatL/pofr_talk.jpeg "Lending Room, The Library Pub")
+An [ongoing](https://robotics.leeds.ac.uk/pgr-network/a-pint-of-robotics/) internal seminar series [...](https://rpturnbull.github.io/outreach/2019-2023-Pint-of-Robotics/)
 
 ## Internal Conferences
 In 2018 and 2019 we hosted internal Robotics at Leeds conferences to provide post-graduate researchers with a platform to present their work. Each day event was attended by over 80 participants. The event stopped due to the pandemic though will likely return.

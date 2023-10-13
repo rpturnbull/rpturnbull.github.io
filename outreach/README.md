@@ -15,6 +15,9 @@ Dissemination of research and public engagement through outreach events.
 [Robotics at Leeds Stall](https://rpturnbull.github.io/outreach/2023-05-01-icra-2023/) at the International Conference on Robotics and Automation.
 
 <h2>2019-2023</h2>
+## A Pint of Robotics
+An [ongoing](https://robotics.leeds.ac.uk/pgr-network/a-pint-of-robotics/) internal seminar series [...](https://rpturnbull.github.io/outreach/2019-2023-Pint-of-Robotics/)
+
 
 <h2>2019</h2>
 <h3>Be Curious</h3>
