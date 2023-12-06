@@ -1,20 +1,17 @@
 ---
-layout: project
+layout: page
 title: BeCurious
 caption: Outreach in parkinson.
 description: >
-date: 30 03 2019
 categories: [outreach]
 tags:       [outreach,robotics]
-image: 
-  path: /assets/img/outreach/BeCurious2019/people1920.jpeg
-  srcset: 
-    1920w: /assets/img/outreach/BeCurious2019/people1920.jpeg
-    960w:  /assets/img/outreach/BeCurious2019/people960.jpeg
-    480w:  /assets/img/outreach/BeCurious2019/people480.jpeg
+date: 30 03 2023
 
 sitemap: false
 ---
+
+![800x400](/assets/img/outreach/BeCurious2019/people960.jpeg "Public Engagement")
+
 
 The [PGR network](https://rpturnbull.github.io/research-culture/RatL-PGR-Network/) team showcased the robot Baxter in a stand called "Baxter’s sweet shop" and Turtlebots, from the school of Computing.
 

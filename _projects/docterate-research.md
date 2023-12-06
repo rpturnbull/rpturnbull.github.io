@@ -3,6 +3,12 @@ layout: project
 title: 'Docterate Research'
 caption: Human Exoskeleton Interaction.
 description: >
+image: 
+  path: /assets/img/projects/phd/cHRI1920.jpg
+  srcset: 
+    1920w: /assets/img/projects/phd/cHRI1920.jpg
+    960w:  /assets/img/projects/phd/cHRI960.jpg
+    480w:  /assets/img/projects/phd/cHRI480.jpg
 sitemap: false
 ---
 
