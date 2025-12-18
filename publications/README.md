@@ -28,7 +28,7 @@ Corser J, Yoldi I, Reeves ND, Culmer P, Venkatraman PD, Orlando G, Turnbull RP, 
  
  <h3>2023</h3>
 
-Turnbull R. P., Evans E., Dehghani-Sanij A. A., [Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface](https://rpturnbull.github.io/publications/2023-09-29-ICORR/), presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, 2023, p. 6. [Accepted].
+Turnbull R. P., Evans E., Dehghani-Sanij A. A., [Development and Validation of a Flexible Sensing Array for Placement within the Physical Human-Exoskeleton Interface](https://rpturnbull.github.io/publications/2023-09-29-ICORR/), presented at the International Consortium for Rehabilitation Robotics (ICORR), Singapore: IEEE RAS, IEEE EMBS, 2023, p. 6.
 
 
  <h2> Other Contributions</h2>
