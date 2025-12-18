@@ -28,4 +28,13 @@ Diabetic patients can be at higher risk of developing pressure ulcers due to ner
 
 While smart insoles currently exist, SockSESS has sets out to develop smart socks where sensing capabilities are embedded within the sock. Providing minimal change to the foots environment while enabling the device to slip seamlessly into patients every day life. I am working on the development of sensing technologies and their integration within the socks.
 
-As the related work is disseminated publicly I will share more detailed information here.
+## Published Work
+
+### Sensor Development
+Turnbull R. P., Corser J., Orlando G., Venkatraman P.D., Yoldi I., Bradbury K., Reeves N.D., Culmer P. [Development of a Body-Worn Textile-Based Strain Sensor: Application to Diabetic Foot Assessment.](https://rpturnbull.github.io/publications/2025-03-26-textile-sensor-dev/) Sensors 2025, 25, 2057. https://doi.org/10.3390/s25072057
+
+
+### PPIE
+Corser J, Yoldi I, Reeves ND, Culmer P, Venkatraman PD, Orlando G, Turnbull RP, Boakes P, Woodin E, Lightup R, Ponton G, Bradbury K. [Developing a Smart Sensing Sock to Prevent Diabetic Foot Ulcers: Qualitative Focus Group and Interview Study](https://rpturnbull.github.io/publications/2025-02-14-PPIE-Socksess/) J Particip Med 2025;17:e59608 
+
+### Textiles
