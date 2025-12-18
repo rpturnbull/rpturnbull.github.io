@@ -10,9 +10,12 @@ permalink: /publications/
 
  <h2> Journal Articles </h2>
  
- <h3>2023</h3>
+ <h3>2025</h3>
 
-Turnbull R. P, Jones D., Alazmani A., Culmer P. [In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients.](https://rpturnbull.github.io/publications/2023-11-01-shear-buffering/) Journal of Wound Care [Accepted]
+Turnbull R. P, Jones D., Alazmani A., Culmer P. [In-Vitro Assessment of Shear Force Buffering in Sacral Dressings for the Alleviation of Pressure Injuries in Bed-Based Patients.](https://rpturnbull.github.io/publications/2025-12-02-shear-buffering/) Journal of Wound Care
+
+
+Turnbull R. P., Corser J., Orlando G., Venkatraman P.D., Yoldi I., Bradbury K., Reeves N.D., Culmer P. [Development of a Body-Worn Textile-Based Strain Sensor: Application to Diabetic Foot Assessment.](https://rpturnbull.github.io/publications/2025-03-26-textile-sensor-dev/) Sensors 2025, 25, 2057. https://doi.org/10.3390/s25072057 
  
  <h2> Conference Articles </h2>
  
